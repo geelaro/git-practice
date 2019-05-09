@@ -4,10 +4,7 @@ Switch
 Sony 
 iPhone X
 Mac Pro
-<<<<<<< HEAD
 大白
 三星SSD
 中央空调
-=======
-Clothes
->>>>>>> feat:add a product for shopping list
+Clothe
